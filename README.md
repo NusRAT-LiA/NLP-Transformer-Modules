@@ -54,22 +54,7 @@ Final linear transformation to vocabulary size.
 ### Positional Encoding Heatmap
 
 (Insert visualization if needed)
-## Contributing
 
-1. Fork the repository.
-2. Create a feature branch:
-    \`\`\`bash
-    git checkout -b feature-branch
-    \`\`\`
-3. Commit changes:
-    \`\`\`bash
-    git commit -am 'Add feature'
-    \`\`\`
-4. Push to branch:
-    \`\`\`bash
-    git push origin feature-branch
-    \`\`\`
-5. Open a Pull Request.
 
 ## License
 
